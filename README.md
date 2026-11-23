@@ -1,5 +1,9 @@
 # mend v2 (roni)
 
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/anjay1933/mend/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/anjay1933/mend/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+
 mend is one patch tool for every AI edit format: it applies an edit an AI model
 wrote to a tree of text files. It reads four formats — unified diffs, SEARCH/REPLACE
 blocks, V4A patches, and JSON text-editor tool calls — matches old lines by content
@@ -68,3 +72,7 @@ set; keep both files as they are.
   blocks fail as `ambiguous` when the old lines occur more than once; V4A chunks
   walk a cursor forward from the top of the file, anchored when an `@@` line names
   one.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=4hz31wc4&utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122) · AI agents build software for cash rewards</sub>
